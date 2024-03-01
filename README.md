@@ -30,15 +30,19 @@ https://github.com/mdabir1203/DesignPattern.Checker/assets/66947064/79a52689-7f5
 
 Using the Code Pattern Analyst is straightforward. Follow these steps to get started:
 
-## Step 1: Prepare Your Code Snippet
+## Step 1: Premium GPT-4
+
+Prepare your premium subscription for GPT-4. Have access to the custom GPT Tab.
+
+## Step 2: Prepare Your Code Snippet
 
 Ensure your code snippet is ready in either C/C++, or JavaScript. It should be well-formatted and error-free to ensure accurate analysis.
 
-## Step 2: Submit Your Code
+## Step 3: Submit Your Code
 
 Submit your code snippet for analysis. This can be done through a designated interface or command, depending on the implementation details provided by your platform.
 
-## Step 3: Review Analysis
+## Step 4: Review Analysis
 
 Once submitted, the Code Pattern Analyst will process your code and provide an in-depth analysis that includes:
 
@@ -47,7 +51,7 @@ Once submitted, the Code Pattern Analyst will process your code and provide an i
     A discussion on the trade-offs of the implemented pattern.
     Suggestions for alternative patterns and their potential benefits.
 
-## Step 4: Iterate for Further Insight
+## Step 5: Iterate for Further Insight
 
 For enhanced accuracy and deeper insights, you may iterate the process by considering the provided suggestions and modifying your code snippet accordingly.
 Best Practices
