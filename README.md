@@ -60,7 +60,12 @@ Best Practices
     Comprehensive Snippets: Provide snippets that showcase the pattern usage context for more accurate analysis.
     Open to Alternatives: Be receptive to the suggested alternatives and their benefits.
 
-## Support
+
+## Inspirations : 
+
+- Software Design Pattern (https://en.wikipedia.org/wiki/Software_design_pattern)
+- Refacftoring Guru (https://refactoring.guru/design-patterns)
+- 10 Design Patterns Explained in 10 Minutes (https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 For any questions or support, please reach out to [md.abir1203@gmail.com - could be a GitHub issue tracker or email].
 
