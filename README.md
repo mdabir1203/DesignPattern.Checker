@@ -67,7 +67,7 @@ Best Practices
 - Refacftoring Guru (https://refactoring.guru/design-patterns)
 - 10 Design Patterns Explained in 10 Minutes (https://www.youtube.com/watch?v=tv-_1er1mWI)
 
-For any questions or support, please reach out to [md.abir1203@gmail.com - could be a GitHub issue tracker or email].
+For any questions or support, please reach out to  [md.abir1203@gmail.com - could be a GitHub issue tracker or email].
 
 ## Contributing
 
