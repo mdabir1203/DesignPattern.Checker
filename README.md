@@ -3,7 +3,7 @@
 ![169d8b43-da4d-4e07-99a2-4f80c915b18a](https://github.com/mdabir1203/DesignPattern.Checker/assets/66947064/f30a116d-eb52-4785-93ac-5e611cc573b2)
 
 
-Welcome to the Code Pattern Analyst, a specialized tool designed to dissect and recognize design patterns within C/C++ and JavaScript code snippets with precision. Our tool is engineered to assist developers in identifying, understanding, and applying design patterns in their code, enhancing code quality, maintainability, and scalability.
+Welcome to the Code Pattern Analyst, a specialized tool designed to dissect and recognize design patterns within C/C++ and JavaScript code snippets with precision. The tool is engineered to assist developers in identifying, understanding, and applying design patterns in their code, enhancing code quality, maintainability, and scalability.
 
 # Demo
 
